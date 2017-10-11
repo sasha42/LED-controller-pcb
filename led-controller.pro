@@ -1,4 +1,4 @@
-update=Wed 09 Aug 2017 07:16:16 AM PDT
+update=Tue 10 Oct 2017 09:49:03 AM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=/home/sasha/led-controller
+LibDir=/home/sasha/led-controller;/home/sasha/led-controller/library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=libs/PCA9685-TSSOP
 LibName31=libs/transistors
+LibName32=libs/mp1584en
